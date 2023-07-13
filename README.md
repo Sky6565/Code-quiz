@@ -1,3 +1,3 @@
 # Code-quiz
 
-# A quiz text with mltiple questions 
+# A quiz text with multiple questions 
