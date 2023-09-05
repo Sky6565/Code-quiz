@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 04 Web APIs: Code Quiz
 
 ## User Story
@@ -23,3 +24,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+=======
+# Code-quiz
+
+# A quiz text with multiple questions 
+>>>>>>> 7a356d6d979e4543a02b9d72315623c404fc6bd8
